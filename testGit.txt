@@ -1,0 +1,1 @@
+This is just to understand the basics of the git commands
